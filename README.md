@@ -1,1 +1,1 @@
-# Sats-Organizatino
+# Sats-Organization
